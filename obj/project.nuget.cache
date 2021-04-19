@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "XniXJ4NS+UeplnWhncLldnqna9GpBtUYZjuQRNIVug8FtpGiPvRV0O+kjcdRnEyb5daL7CkNhI6aw+51Bqv39A==",
+  "success": true,
+  "projectFilePath": "C:\\source\\codeworks\\csharp\\vacay\\vacay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thepa\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\thepa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\thepa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\thepa\\.nuget\\packages\\mysqlconnector\\1.3.3\\mysqlconnector.1.3.3.nupkg.sha512",
+    "C:\\Users\\thepa\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\thepa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\thepa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\thepa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
